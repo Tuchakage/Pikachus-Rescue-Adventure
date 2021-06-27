@@ -1,0 +1,12 @@
+**Open The "Coursework" Folder**
+
+Game Objective:
+The Objective of this game is to help the player(The Pikachu) catch the prey (The Bulbasaur) whilst trying not to be seen by the hunter (Team Rocket Member). You can help the player by guiding it so that it can intercept the rabbit or quickly get it before the Rabbit starts fleeing but you must be careful because if you are in a certain range and the hunter sees you then you lose, if you get the prey before that you win.
+The Obstacles (The Black Squares) could either be your friend where the rabbit will turn into you trying to avoid the obstacle or your enemy where the rabbit changes directions completely whilst your still trying to avoid the obstacle so keep that in mind.
+
+
+Game Instruction:
+• Press and hold down left mouse button to guide the player
+• Press the Right mouse button to slow down the player (If the player is chasing the prey but you don’t think it will catch up at all)
+• F2 To Restart Game
+• Space Bar To Pause Game
